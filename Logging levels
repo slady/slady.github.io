@@ -1,4 +1,5 @@
-When considering logging and log levels, slady uses this guidelines from JCL:
+# Java logging and log levels
+When considering logging and log levels, use this guidelines from JCL:
 
 
 error - Other runtime errors or unexpected conditions. Expect these to be immediately visible on a status console
