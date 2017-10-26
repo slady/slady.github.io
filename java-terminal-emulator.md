@@ -15,3 +15,5 @@ JediTerm has both graphical implementation as well as API to override.
 Graphical version works for remote connections(using JSch) and local pty (using JPty).
 
 [JediTerm](https://github.com/JetBrains/jediterm)
+
+tag: [Java software](tag-Java-software)
