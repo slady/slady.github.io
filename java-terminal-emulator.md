@@ -1,7 +1,7 @@
 # Java terminal emulator
 
 ## Telnetd
-Telnetd seems to be a complete an pretty well documented solution:
+Telnetd seems to be a complete solution and pretty well documented:
 
 http://telnetd.sourceforge.net/
 
@@ -12,6 +12,6 @@ http://www.jcraft.com/jcterm/
 
 ## JediTerm
 JediTerm has both graphical implementation as well as API to override.
-Graphical version works for remote connections(using JSch) and local pty(using JPty).
+Graphical version works for remote connections(using JSch) and local pty (using JPty).
 
 https://github.com/JetBrains/jediterm
