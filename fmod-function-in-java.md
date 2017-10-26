@@ -3,11 +3,11 @@ equivalent function for fmod() in Java
 double fmod(double x, double y)
 float fmodf(float x, float y)
 
-The fmod functions compute the floating-point remainder of dividing x by y.
+The fmod functions computes the floating-point remainder of dividing x by y.
 
 The return value is x - n y, where n is the quotient of x / y, rounded to the first integer towards zero.
 
-Mindprod has a good overview of how modulus works in Java (look right at the end for floating point modulus).
+Mindprod has a good overview of how modulus works in Java (look right at the end for the floating point modulus).
 
 http://mindprod.com/jgloss/modulus.html
 
