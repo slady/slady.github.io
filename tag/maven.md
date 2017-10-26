@@ -1,1 +1,1 @@
-[maven running single test](tag/maven-running-single-test)
+[maven running single test](../maven-running-single-test)
