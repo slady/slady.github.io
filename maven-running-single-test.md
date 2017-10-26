@@ -55,4 +55,4 @@ As of Surefire 2.12.1, you can select multiple methods (JUnit 4.x only at this t
 
   mvn -Dit.test=ITCircle#testOne+testTwo verify
 
-tag: [maven](tag-maven.md)
+tag: [maven](tag/maven.md)
