@@ -9,13 +9,17 @@ These two cases will be described bellow.
 ## Running a single unit test in maven
 In the case of a **single unit test in maven**, there is this **Maven Surefire Plugin** parameter:
 
-  mvn -Dtest=TestCircle test
+```shell
+mvn -Dtest=TestCircle test
+```
 
 Notice the 'test' phase and the 'test' parameter name!
 
 You may also use patterns to run a number of tests:
 
-  mvn -Dtest=TestCi*le test
+```bash
+mvn -Dtest=TestCi*le test
+```
 
 Or you may use multiple names/patterns, separated by commas:
   mvn -Dtest=TestSquare,TestCi*le test
@@ -23,7 +27,9 @@ Or you may use multiple names/patterns, separated by commas:
 ## Running a single integration test in maven
 In the case of a **single integration test in maven**, there is this **Maven Failsafe Plugin** parameter:
 
-  mvn -Dit.test=ITCircle verify
+```sh
+mvn -Dit.test=ITCircle verify
+```
 
 Notice the 'verify' phase and the 'it.test' parameter name!
 
