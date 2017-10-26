@@ -9,7 +9,7 @@ These two cases will be described bellow.
 ## Running a single unit test in maven
 In the case of a **single unit test in maven**, there is this **Maven Surefire Plugin** parameter:
 
-```shell
+```sh
 mvn -Dtest=TestCircle test
 ```
 
@@ -17,7 +17,7 @@ Notice the 'test' phase and the 'test' parameter name!
 
 You may also use patterns to run a number of tests:
 
-```bash
+```sh
 mvn -Dtest=TestCi*le test
 ```
 
@@ -35,24 +35,34 @@ Notice the 'verify' phase and the 'it.test' parameter name!
 
 You may also use patterns to run a number of tests:
 
-  mvn -Dit.test=ITCi*le verify
+```sh
+mvn -Dit.test=ITCi*le verify
+```
 
 And you may use multiple names/patterns, separated by commas:
 
-  mvn -Dit.test=ITSquare,ITCi*le verify
+```sh
+mvn -Dit.test=ITSquare,ITCi*le verify
+```
 
 ## Running a set of methods in a single test class
 You can run only a subset of the test methods in a test class.
 
 The separator character between a class name and a method name is the **hash mark** character '#', for example:
-  mvn -Dit.test=ITCircle#mytest verify
+```sh
+mvn -Dit.test=ITCircle#mytest verify
+```
 
 You can use patterns too
 
-  mvn -Dit.test=ITCircle#test* verify
+```sh
+mvn -Dit.test=ITCircle#test* verify
+```
 
 As of Surefire 2.12.1, you can select multiple methods (JUnit 4.x only at this time; patches welcome!):
 
-  mvn -Dit.test=ITCircle#testOne+testTwo verify
+```sh
+mvn -Dit.test=ITCircle#testOne+testTwo verify
+```
 
 tag: [maven](tag/maven.md)
