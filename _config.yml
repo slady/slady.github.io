@@ -2,6 +2,7 @@ theme: jekyll-theme-slate
 title: Java.PS
 description: Java by Petr Sladek slady
 url: http://www.java.ps/
+base: http://www.java.ps/
 author: Petr Sladek slady
 facebook_username: petr.sladek.slady
 github_username: slady
