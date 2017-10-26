@@ -1,5 +1,7 @@
-StringBuffer is synchronized, StringBuilder is not.
+# `StringBuilder` or `StringBuffer`
 
-StringBuilder is faster than StringBuffer because it's not synchronized.
+`StringBuffer` is synchronized, `StringBuilder` is not.
 
-The speed-up for StringBuilder is probably about two times faster than StringBuffer.
+`StringBuilder` is faster than `StringBuffer` because it's not synchronized.
+
+The speed-up for `StringBuilder` is probably about two times faster than `StringBuffer`.
