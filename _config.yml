@@ -5,3 +5,7 @@ url: http://www.java.ps/
 author: Petr Sladek slady
 facebook_username: petr.sladek.slady
 github_username: slady
+footer-links:
+  email: slady@slady.net
+  facebook: petr.sladek.slady
+  github: barryclark/jekyll-now
