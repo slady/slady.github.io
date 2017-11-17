@@ -12,4 +12,4 @@ footer-links:
   email: slady@slady.net
   facebook: petr.sladek.slady
   github: barryclark/jekyll-now
-exclude: [ '*.md', '*.yml', 'CNAME' ]
+exclude: [ '*.yml', 'CNAME' ]
