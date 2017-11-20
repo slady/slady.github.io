@@ -13,3 +13,7 @@ footer-links:
   facebook: petr.sladek.slady
   github: barryclark/jekyll-now
 exclude: [ '*.yml', 'CNAME' ]
+collections:
+  my_categories:
+    output: true
+    permalink: /blog/category/:name/
