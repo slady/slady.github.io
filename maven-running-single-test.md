@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Alternative Tags And Categories On GitHub Pages Without Plugins
 category: programming
 tags: [github, github-pages, jekyll]
