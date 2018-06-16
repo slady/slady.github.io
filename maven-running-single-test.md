@@ -1,12 +1,3 @@
----
-title: Alternative Tags And Categories On GitHub Pages Without Plugins
-category: programming
-tags: [github, github-pages, jekyll]
----
-
-
-
-
 # Running a single test in maven
 
 During development, you may run a single test class repeatedly.
@@ -73,5 +64,3 @@ As of Surefire 2.12.1, you can select multiple methods (JUnit 4.x only at this t
 ```sh
 mvn -Dit.test=ITCircle#testOne+testTwo verify
 ```
-
-tag: [maven](tag/maven)
