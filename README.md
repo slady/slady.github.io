@@ -1,18 +1,21 @@
 Java.PS
 =======
 
-GitHub Pages for Java.PS
+Java tutorials:
 
-tags:
-* [Android](tag/Android)
-* [Java software](tag/Java-software)
-* [maven](tag/maven)
+* [convert OutputStream to String](convert-OutputStream-to-String)
+* [current working directory in Java](current-working-directory-in-Java)
+* [fmod function in Java](fmod-function-in-java)
+* [list of logging levels](logging-levels)
+* [read file in java line by line](read-file-in-java-line-by-line)
+* [StringBuilder or StringBuffer](StringBuilder-or-StringBuffer)
+* [XML marshalling](XML-marshalling)
 
-{% assign category = site.my_categories | where: "slug", post.category %}
-{% assign category = category[0] %}
-{% if category %}
-    {% capture category_content %}<a class="label" href="{{ category.url }}">{{ category.name }}</a>{% endcapture %}
-{% endif %}
+non-Java tutorials:
+* [batch unzip files in Linux](Linux-batch-unzip-files)
+* [running single test in maven](maven-running-single-test)
+* [run MIDlet on Android](run-MIDlet-on-Android)
 
-<p id="post-meta">{{ category_content }}</p>
-
+Java software:
+* [Java terminal emulator](java-terminal-emulator)
+* [Java IDE](java-ide)
