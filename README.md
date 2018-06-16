@@ -17,5 +17,6 @@ non-Java tutorials:
 * [run MIDlet on Android](run-MIDlet-on-Android)
 
 Java software:
-* [Java terminal emulator](java-terminal-emulator)
 * [Java IDE](java-ide)
+* [Java terminal emulator](java-terminal-emulator)
+* [SQuirreL SQL client in Java](squirreL-sql)
