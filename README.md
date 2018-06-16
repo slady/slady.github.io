@@ -11,6 +11,11 @@ Java tutorials:
 * [StringBuilder or StringBuffer](StringBuilder-or-StringBuffer)
 * [XML marshalling](XML-marshalling)
 
+Java 8 tutorials:
+* [Java 8 streams tutorial](java-8-streams)
+* [Java 8 sort example](java-8-sort)
+* [Java 8 Files example](java-8-files)
+
 non-Java tutorials:
 * [batch unzip files in Linux](Linux-batch-unzip-files)
 * [running single test in maven](maven-running-single-test)
