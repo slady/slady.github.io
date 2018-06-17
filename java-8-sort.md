@@ -58,3 +58,6 @@ together with a method reference, that we already know:
 ```java
 names.forEach(System.out::println);
 ```
+
+If you want to test all of this in a Java code, download or clone this
+[java.ps git repository with Java 8 tutorials](https://github.com/slady/Java-8-tutorial)
