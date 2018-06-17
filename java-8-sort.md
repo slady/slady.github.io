@@ -12,6 +12,9 @@ final List<String> names = Arrays.asList(
     "Ringo Starr");
 ```
 
+Now that we have defined our variables,
+we can sort them and print them all to the console.
+
 ## Java 7
 If we were working in Java 7 or any older version of Java before 8, we would do this:
 
