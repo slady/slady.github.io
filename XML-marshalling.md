@@ -12,3 +12,5 @@ try {
     e.printStackTrace();
 }
 ```
+
+...and that's all you need to do for manual XML marshalling in Java!
