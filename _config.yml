@@ -1,11 +1,11 @@
 theme: jekyll-theme-modernist
 title: Java.PS
-description: Java by Petr Sladek slady
-url: http://www.java.ps/
-base: http://www.java.ps/
+description: Java by Petr Sladek
+url: https://www.java.ps/
+base: https://www.java.ps/
 show_downloads: "false"
 repository_ur: http://www.java.ps/
-author: Petr Sladek slady
+author: Petr Sladek
 facebook_username: petr.sladek.slady
 github_username: slady
 footer-links:
