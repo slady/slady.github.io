@@ -2,8 +2,8 @@ Java.PS
 =======
 
 Java 8 tutorials:
-* [Java 8 streams tutorial](java-8-streams)
 * [Java 8 sort example](java-8-sort)
+* [Java 8 streams tutorial](java-8-streams)
 * [Java 8 Files example](java-8-files)
 
 Java tutorials:
