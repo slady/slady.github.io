@@ -4,16 +4,5 @@ description: Java by Petr Sladek
 url: https://www.java.ps/
 base: https://www.java.ps/
 show_downloads: "false"
-repository_ur: http://www.java.ps/
 author: Petr Sladek
-facebook_username: petr.sladek.slady
-github_username: slady
-footer-links:
-  email: slady@slady.net
-  facebook: petr.sladek.slady
-  github: barryclark/jekyll-now
 exclude: [ '*.yml', 'CNAME' ]
-collections:
-  my_categories:
-    output: true
-    permalink: /blog/category/:name/
