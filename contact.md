@@ -1,3 +1,9 @@
+Have you find any misinformation?
+
+Do you have suggestions for improvement?
+
+Or just want to say Hi?
+
 If you want to contact Petr Sladek from Java.PS:
 
 e-mail: <slady@slady.net>
