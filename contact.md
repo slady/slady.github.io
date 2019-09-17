@@ -1,4 +1,4 @@
-Have you find any misinformation?
+Have you found any misinformation?
 
 Do you have suggestions for improvement?
 
