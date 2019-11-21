@@ -17,6 +17,7 @@ Java tutorials:
 * [XML marshalling](XML-marshalling)
 
 non-Java tutorials:
+* [install PostgresQL in Linux](install-postgresql-in-Linux)
 * [batch unzip files in Linux](Linux-batch-unzip-files)
 * [running single test in maven](maven-running-single-test)
 * [run MIDlet on Android](run-MIDlet-on-Android)
